@@ -26,7 +26,7 @@ as the initialization phase, considering that random initialization is likely to
 may lead to mode collapse._
 
 #### Examples
-![examples](https://github.com/GGGHSL/CAM-MUNIT/blob/master/examples/test_examples.jpg?raw=true)
+![examples](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/test_examples.jpg?raw=true)
 
 #### Requirements
 >* python == 3.7
