@@ -65,3 +65,6 @@ $ python train_multigpus.py --gpus_ids=YOUR_GPU_IDS --output_path=YOUR_SAVE_PATH
 ```bash
 $ python test.py --load_path=YOUR_MODEL_PATH --iteration=IF_NEED_TO_SPECIFY
 ```
+
+#### Architecture
+![architecture](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/architecture.jpg?raw=true)
