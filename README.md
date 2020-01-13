@@ -26,6 +26,8 @@ as the initialization phase, considering that random initialization is likely to
 may lead to mode collapse._
 
 #### Examples
+>Every two rows is a group: the first line is the source, the second line is the generated animation image.
+
 ![examples](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/test_examples.jpg?raw=true)
 
 #### Requirements
