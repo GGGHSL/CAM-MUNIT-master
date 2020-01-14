@@ -28,7 +28,7 @@ may lead to mode collapse._
 #### Examples
 >Every two rows is a group: the first line is the source, the second line is the generated animation image.
 
-![examples](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/test_examples.jpg?raw=true)
+![Examples](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/test_examples.jpg?raw=true)
 
 #### Requirements
 >* python == 3.7
@@ -67,4 +67,4 @@ $ python test.py --load_path=YOUR_MODEL_PATH --iteration=IF_NEED_TO_SPECIFY
 ```
 
 #### Architecture
-![architecture](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/architecture.jpg?raw=true)
+![Architecture](https://github.com/GGGHSL/CAM-MUNIT-master/blob/master/examples/architecture.jpg?raw=true)
